@@ -1,0 +1,47 @@
+.buttonsignin {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 24px;
+  position: absolute;
+  left: 5.9%;
+  right: 82.5%;
+  top: 64%;
+  bottom: 31.67%;
+  background: #fffdc6;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.text {
+  position: absolute;
+  width: 845px;
+  height: 217px;
+  left: 64px;
+  top: 169px;
+}
+
+.search {
+  position: absolute;
+  width: 673px;
+  height: 210px;
+  left: 68px;
+  top: 300px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.5px;
+  color: rgba(13, 13, 13, 0.46);
+}
+
+.image {
+  position: absolute;
+  width: 700px;
+  height: 600px;
+  left: 717px;
+}

@@ -1,0 +1,12 @@
+.text {
+    position: absolute;
+    left: 257px;
+    top: 8px;
+    margin-bottom: 100px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-decoration-line: underline;
+    color: #000000;
+}
